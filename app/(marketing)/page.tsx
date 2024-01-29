@@ -9,7 +9,7 @@ const MarketingPage = () => {
         </div>
         <div className="mb-6">
           <h1 className="text-3xl md:text-6xl text-neutral-800">
-            Organizely helps team move
+            OrganizeIt helps team move
           </h1>
         </div>
         <div className="bg-gradient-to-r from-fuchsia-600 to-pink-600 text-3xl md:text-6xl px-4 py-2 text-center rounded-md">
@@ -17,7 +17,7 @@ const MarketingPage = () => {
         </div>
       </div>
       <div className="text-sm md:text-xl text-neutral-400 max-w-xs md:max-w-2xl text-center py-2">
-        Stay organized and on top of your tasks with Organizely. Perfect for
+        Stay organized and on top of your tasks with OrganizeIt. Perfect for
         teams of all sizes. Try it today!
       </div>
     </main>
